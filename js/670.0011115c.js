@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkminimal_loop_gallery"]=self["webpackChunkminimal_loop_gallery"]||[]).push([[670],{5670:function(l,e,p){l.exports=p.p+"media/0.f31f420c.mp4"}}]);

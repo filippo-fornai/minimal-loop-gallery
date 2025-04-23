@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkminimal_loop_gallery"]=self["webpackChunkminimal_loop_gallery"]||[]).push([[589],{589:function(e){e.exports=JSON.parse('{"name":"Loop 1","sections":[{"title":"Overview","components":[{"type":"paragraph","content":"An overview of the layout."},{"type":"image","content":0}]}]}')}}]);
