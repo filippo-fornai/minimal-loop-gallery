@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: "/minimal-loop-gallery/",
+  publicPath: process.env.NODE_ENV === "production" ? "/minimal-loop-gallery/" : "/",
 })
