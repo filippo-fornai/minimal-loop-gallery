@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h1>Welcome to the minimal loop gallery!</h1>
+    <h2>Collection of minimal loops I created while learning blender!</h2>
   </div>
   <div>
     <LoopGallery />
