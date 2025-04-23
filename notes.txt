@@ -1,0 +1,13 @@
+make a glitchy fx on the about button to take 
+focus and let people click it
+
+put the events on the container divs because it seems to be a problem with that
+
+json-server --watch db.json --static public
+
+ffmpeg -i 0.mp4 -vf scale=640:-1 0-preview.mp4
+
+ffmpeg -i 0.mp4 0.gif
+
+fare uno script che guarda i file presenti nella cartella,
+li rionimini in modo progressivo sapendo gli altri presenti,

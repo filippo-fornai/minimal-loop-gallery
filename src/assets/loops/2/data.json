@@ -1,0 +1,26 @@
+{
+  "name": "Loop 1",
+  "sections": [
+    {
+      "title": "Overview",
+      "components": [
+        {
+          "type": "paragraph",
+          "content": "An overview of the layout."
+        },
+        {
+          "type": "image",
+          "content": 0
+        },
+        {
+          "type": "paragraph",
+          "content": "An overview of the material used on the plane. Remember to turn on Displacement in settings of material."
+        },
+        {
+          "type": "image",
+          "content": 1
+        }
+      ]
+    }
+  ]
+}
