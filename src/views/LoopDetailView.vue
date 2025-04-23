@@ -23,7 +23,7 @@
     <div class="links">
         <h2>Downloads</h2>
         <!-- <img src="../../public/blender_files/a.png" alt=""> -->
-        <a class="details-link" :href="url_blender" download="loop.blend">Blender File</a>
+        <a class="details-link" :href="url_blender" download="loop.zip">Blender File</a>
         <a class="details-link" :href="url_mp4" download="loop.mp4">MP4 File</a>
         <!-- <a class="details-link" :href="url_gif" download="loop.gif">GIF File</a> -->
     </div>
@@ -48,7 +48,7 @@ const url_blender = ref("");
 const url_mp4 = ref("");
 const url_gif = ref("");
 
-url_blender.value = `/blender_files/${props.id}.blend`;
+url_blender.value = `/blender_files/${props.id}.zip`;
 console.log("url_blender:", url_blender.value);
 
 import(`../assets/loops/${props.id}/0.mp4`).then((image) => {
